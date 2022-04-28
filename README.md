@@ -6,13 +6,13 @@ use php and framework
  qr code payment 
 
 php -> 7.4
-slime framework
-method -> POST
+ slime framework
+ method -> POST
 
 bluid web service
-php -S localhost:8000
+ php -S localhost:8000
 
 Link endpoint
-make url -->> http://localhost:8000/apiv11scb.php/scb/confirm/payment
-#scb #payment #api
+ make url -->> http://localhost:8000/apiv11scb.php/scb/confirm/payment
+ #scb #payment #api
 thx
