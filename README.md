@@ -13,6 +13,9 @@ bluid web service
  php -S localhost:8000
 
 Link endpoint
- make url -->> http://localhost:8000/apiv11scb.php/scb/confirm/payment
+ make url -->> http://localhost:8000/apiv11scbmain.php/scb/confirm/payment
  #scb #payment #api
+
+test with postman and aws vm-> ubuntu 20.04 and developer.scb
+
 thx
