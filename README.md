@@ -18,4 +18,6 @@ Link endpoint
 
 test with postman and aws vm-> ubuntu 20.04 and developer.scb
 
+easy test one public heroku-Paass-service
+
 thx
